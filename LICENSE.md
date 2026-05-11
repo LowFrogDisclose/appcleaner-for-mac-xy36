@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with rare Plugin for AppCleaner for macOS - disk-analysis and menu-bar-customization, the #1 plugin. Includes disk-analysis and menu-bar-customization
 
 
 
